@@ -1,0 +1,7 @@
+Patterns
+    - Right half pyramid star pattern.
+    - Left half pyramid star pattern.
+    - Inverted right half pyramid pattern.
+    - Inverted left half pyramid pattern.
+    - Full pyramid pattern.
+    - Inverted full pyramid pattern.

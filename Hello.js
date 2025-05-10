@@ -1,17 +1,17 @@
 console.log("Hello JavaScript");
 
-// const greet = () =>{
-//     console.log("Hello greet");
-// }
+const greet = () => {
+    console.log("Hello greet");
+}
 
-// const hello = (callback) =>{
-// console.log("Call hello function");
-// // setTimeout(callback)
-// // return callback
-// callback
-// }
+const hello = (callback) => {
+    console.log("Call hello function");
+    // setTimeout(callback)
+    // return callback
+    return callback
+}
 
-// // console.log(hello(greet));
+hello(greet());
 
 // const fun1 = useCallback(
 //     () => {

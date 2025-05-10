@@ -5,3 +5,5 @@ Patterns
     - Inverted left half pyramid pattern.
     - Full pyramid pattern.
     - Inverted full pyramid pattern.
+    - Rhombus pattern.
+    - 
